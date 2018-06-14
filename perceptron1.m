@@ -39,4 +39,3 @@ for i=1:50
          count1 = 0;
     end
 end
-plot(-2x-3y)
