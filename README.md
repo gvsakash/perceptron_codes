@@ -1,7 +1,10 @@
 # perceptron_matlabpractice
 * Contains sample codes from various sources for understanding and practice.
 * Determining weight and bias for sample inputs. Simple code developed while practice.
+* Inculdes a folder of notebooks with python code, which have been implemented for understanding and training.
 
 * Samples & example problems from
 1. [Neural Network Design](http://hagan.okstate.edu/nnd.html) by Hagan, Demuth, Beale ebook in Matlab Documentation.
 2. Other miscellanous sources online.
+
+[![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://github.com/gvsakash/ann-design) 
