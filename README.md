@@ -7,4 +7,5 @@
 1. [Neural Network Design](http://hagan.okstate.edu/nnd.html) by Hagan, Demuth, Beale ebook in Matlab Documentation.
 2. Other miscellanous sources online.
 
-[![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://github.com/gvsakash/ann-design) 
+[![akash-badge](https://img.shields.io/badge/made%20with-MATLAB-orange.svg)](https://github.com/gvsakash/ann-design) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![akash-badge](https://img.shields.io/badge/tried%20and%20tested-Akash-brightgreen.svg)](https://github.com/gvsakash/)
+
