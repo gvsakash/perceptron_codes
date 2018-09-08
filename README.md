@@ -1,4 +1,5 @@
-# perceptron_matlabpractice
+# perceptron_codes
+* Basis for my internship done at IIT-Hyd. Final commits in ann-design repo based on all the codes here.
 * Contains sample codes from various sources for understanding and practice.
 * Determining weight and bias for sample inputs. Simple code developed while practice.
 * Inculdes a folder of notebooks with python code, which have been implemented for understanding and training.
