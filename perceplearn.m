@@ -42,3 +42,27 @@ k=1;
 %     end
 %     k=k+1;
 % end
+
+
+while k<=itermax
+    for i=1:2000
+        w=w+mu*(goal(i)-y(i))*x(:,i);
+%         w=w+x(:,i);
+        y(i)=sign(w'*x(:,i));
+    end
+    error(k)=length(find(y~=goal))/length(goal);
+    if y==goal
+        break;
+    end
+    k=k+1;
+end
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+figure(1);
+plot(D(:,1),D(:,2),'.');
+f=@(x) -w(1)/w(3)-w(2)/w(3).*x;
+s=-15:0.1:25;
+hold on; plot(s,f(s),'k');
+figure(2);
+plot(error)
