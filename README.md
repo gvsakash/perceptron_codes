@@ -5,7 +5,7 @@
 
 * Contains sample codes from various sources for understanding and practice.
 
-* Determining weight and bias for sample inputs. Simple code developed while practice.
+* Determining weight and bias for sample inputs. Simple perceptron networks developed while practice.
 
 * Inculdes a folder of notebooks with python code, which have been implemented for understanding and training.
 ___
