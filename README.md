@@ -1,4 +1,4 @@
-#### perceptron_codes repository
+#### perceptron_codes :bar_chart: :chart_with_upwards_trend:
 
 
 * Basis for my internship done at IIT-Hyd. Final commits in ann-design repo based on all the codes here.
