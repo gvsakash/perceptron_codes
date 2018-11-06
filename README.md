@@ -11,7 +11,8 @@
 
 * **Footnotes:**
 
-           Samples & example problems from :
+     Samples & example problems from :
+           
            1. Hagan, Demuth, Beale ebook in Matlab Documentation.
            2. Other miscellanous sources online.
            3. References include  mathworks guide, and implementations.
