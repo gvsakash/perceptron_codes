@@ -1,15 +1,12 @@
-## perceptron_codes :bar_chart: :chart_with_upwards_trend:
+## perceptroncodes :bar_chart: :chart_with_upwards_trend:
 
 
-* Basis for my internship done at IIT-Hyd. Final commits in ann-design repo based on all the codes here.
-
-* Contains sample codes from various sources for understanding and practice.
-
-* Determining weight and bias for sample inputs. Simple perceptron networks developed while practice.
-
+* Contains intial commits/submissions and the practice code implemented. Final submission in [ann-design](https://github.com/gvsakash/ann-design) repo, for summer internship at IIT Hyd.
+* Includes perceptron networks designed from scratch and trained in matlab, along with sample codes from various sources.
+*  **Keywords**(Perceptron, Denoising, Supervised Learning, ADALINE nets, Time series analysis, Backpropagation)
 * Inculdes a folder of notebooks with python code, which have been implemented for understanding and training.
 
-* **Footnotes:**
+* ---Footnote---
 
      Samples & example problems from :
            
